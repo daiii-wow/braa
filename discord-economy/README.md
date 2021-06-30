@@ -443,5 +443,5 @@ You now own :money_with_wings: ${output.balance}`)
 });
 
 //Your secret token to log the bot in. (never show this to anyone!)
-client.login('ODU5NzczMjkwNDQwNTU2NTY2.YNxkRg.fySRZe8uRWuEYu-FZSUHkNZLgXg')
+client.login('token')
 ```
